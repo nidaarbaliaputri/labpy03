@@ -132,4 +132,3 @@ for i in range(1, 9):
 
 ### **screenshot output program main.py**
 
-![eza](png/3.png)
