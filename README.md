@@ -131,4 +131,6 @@ for i in range(1, 9):
 8. cetak total
 
 ### **screenshot output program main.py**
+![image](https://user-images.githubusercontent.com/92866211/142423488-6c794214-d3a2-4177-abb1-7b01a537d8b6.png)
+
 
