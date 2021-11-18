@@ -79,7 +79,8 @@ print('Bilangan terbesarnya adalah',maks)
 
 ### **screenshot output program latihan2.py**
 
-![eza](png/2.png)
+![image](https://user-images.githubusercontent.com/92866211/142422094-7f829ccf-dd25-4a1a-b308-e8d0247e04b4.png)
+
 
 # **Algoritma main.py**
 
