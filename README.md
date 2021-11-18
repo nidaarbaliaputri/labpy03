@@ -4,6 +4,8 @@ nama : nida arbalia putri
 nim : 312110558
 matkul : bahasa pemrograman
 
+
+
 LOOPING
 
     LOOPING sendiri artinya perulangan,dalam bahasa pemrograman merupakan suatu pernyataan untuk menguntruksi komputer agar melakukan sesuatu secara berulang.
